@@ -23,3 +23,5 @@ npm run dev
 ## API documenttation
 
 https://documenter.getpostman.com/view/36127848/2sB3QNpohf
+
+npm install gh-pages --save-dev
