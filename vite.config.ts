@@ -5,7 +5,7 @@ import laravel from 'laravel-vite-plugin';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-    base: 'https://kcirtap05.github.io/pizza-planet/', 
+    base: '/pizza-planet/', 
     plugins: [
         laravel({
             input: ['resources/js/app.ts'],
